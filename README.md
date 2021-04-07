@@ -1,7 +1,7 @@
 # Pihole Blocklists
 DNS Blocklists for Pihole.
 
-# USage
+# Usage
 1. Log into pihole as admin
 2. Go to `Group Management`
 3. Go to `Adlists`
