@@ -1,8 +1,17 @@
 # Use this list to totally block access to tiktok on your network.
 # Note: this list will block access to / break other Bytedance products and apps.
 # If you want to continue using tiktok, add this list that blocks only ad/tracking domains: https://raw.githubusercontent.com/llacb47/mischosts/master/tiktok-hosts
-
-0.0.0.0 bytedance.akadns.net
+0.0.0.0 sf16-ies-music-va.tiktokcdn.com
+0.0.0.0 p16-sign.tiktokcdn-us.com
+0.0.0.0 p16-amd-va.tiktokcdn.com
+0.0.0.0 webcast16-normal-useast5.us.tiktokv.com
+0.0.0.0 p16-sign-sg.tiktokcdn.com
+0.0.0.0 sf19.tiktokcdn-us.com
+0.0.0.0 pull-q5-sg01.tiktokcdn.com
+0.0.0.0 pull-flv-l10-sg01.tiktokcdn.com
+0.0.0.0 pull-cmaf-l16-va01.tiktokcdn.com
+0.0.0.0 pull-cmaf-l16-tt01.tiktokcdn-us.com
+0.0.0.0 mssdk16-platform-useast5.us.tiktokv.com
 0.0.0.0 dsa-video.traffic.bytedance.akadns.net
 0.0.0.0 bytegeo.akadns.net
 0.0.0.0 api31.bytegeo.akadns.net
